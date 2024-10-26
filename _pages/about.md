@@ -43,6 +43,7 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+这是一个测试页面，2024年10月26日
 
 For more info
 ------
